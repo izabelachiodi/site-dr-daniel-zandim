@@ -18,3 +18,15 @@ A segunda e a terceira imagem foram substituídas por espaços reservados. Troqu
 ## Alteração desta versão
 
 Foi removido o bloco introdutório com o título “Você merece compreender o que está acontecendo com a sua saúde” e os cartões Escuta atenta, Informação clara e Plano individual.
+
+## Fotografias atualizadas
+
+Esta versão usa as fotografias profissionais recebidas:
+
+- foto com jaleco na abertura;
+- detalhe de escrita na seção “Quando procurar”;
+- retrato com camisa azul na seção “Sobre”;
+- foto ampla do consultório no card principal de conteúdo;
+- nova imagem de compartilhamento para redes sociais.
+
+As imagens foram redimensionadas e comprimidas para uso na web, preservando as originais.
